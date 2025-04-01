@@ -46,3 +46,7 @@
    git clone https://github.com/your_login/LR-1.git
 2. Перейдите в директорию проекта
 3. Запустите программу
+
+Пример работы программы:
+![Uploading image.png…]()
+
